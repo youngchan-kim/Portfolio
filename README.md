@@ -2,7 +2,7 @@
 이 저장소는 제가 진행한 프로젝트 및 알고리즘 문제 풀이를 정리한 공간입니다.
 
 ## 📌 주요 카테고리
-- **[Algorithm-Solutions](./Algorithm-Solutions/)** - 알고리즘 문제 풀이
+- **[🔗 Algorithm-Solutions Repository](https://github.com/youngchan-kim/Algorithm-Solutions)** - 알고리즘 문제 풀이
 - **[GameDev](./GameDev/)** - 게임 개발 관련 코드
 - **[Projects](./Projects/)** - 개인 프로젝트 모음
 - **[Docs](./Docs/)** - 이력서 및 포트폴리오 문서
