@@ -1,19 +1,28 @@
 # 🏆 My Portfolio (개인 포트폴리오)
-이 저장소는 제가 진행한 프로젝트 및 알고리즘 문제 풀이를 정리한 공간입니다.
 
-## 📌 주요 카테고리
-- **[🔗 Algorithm-Solutions Repository](https://github.com/youngchan-kim/Algorithm-Solutions)** - 알고리즘 문제 풀이
-- **[GameDev](./GameDev/)** - 게임 개발 관련 코드
-- **[Projects](./Projects/)** - 개인 프로젝트 모음
-- **[Docs](./Docs/)** - 이력서 및 포트폴리오 문서
+이 저장소는 제가 진행한 프로젝트와 알고리즘 문제 풀이 등을 정리한 공간입니다.  
+각 프로젝트는 별도의 레포지토리에서 관리됩니다. 👇
 
-## 📂 프로젝트 목록
-| 프로젝트명 | 설명 | 기술 스택 | 링크 |
-|------------|-------------|------------|------------|
-| **Game TPS** | Unity 기반 TPS 게임 | `Unity`, `C#` | [🔗 코드 보기](./GameDev/Unity) |
-| **Pathfinding AI** | A* 알고리즘 적용 | `Unity`, `AI` | [🔗 코드 보기](./GameDev/AI) |
-| **Sorting Algorithms** | 정렬 알고리즘 구현 | `Python` | [🔗 코드 보기](./Algorithm-Solutions/Sorting) |
+## 📌 주요 레포지토리 목록
+
+### 1️⃣ 알고리즘 문제 풀이  
+🔗 [Algorithm-Solutions Repository](https://github.com/youngchan-kim/Algorithm-Solutions)  
+💡 다양한 알고리즘 문제 풀이 및 해설을 포함하고 있습니다.
+
+### 2️⃣ 게임 개발 프로젝트  
+🔗 [GameDev Repository](https://github.com/youngchan-kim/GameDev)  
+💡 Unity 기반 TPS, AI 경로 탐색 등 다양한 게임 개발 관련 코드 포함.
+
+### 3️⃣ 개인 프로젝트  
+🔗 [Projects Repository](https://github.com/youngchan-kim/Projects)  
+💡 웹 개발, 앱 개발, 머신러닝 등 다양한 프로젝트 모음.
+
+### 4️⃣ 포트폴리오 문서 & 이력서  
+🔗 [Docs Repository](https://github.com/youngchan-kim/Docs)  
+💡 이력서, 자기소개서, 프로젝트 문서 등이 포함됨.
 
 ---
-✅ **[📌 내 블로그 방문하기](https://sweet-die-is-back.tistory.com)**  
-# Portfolio
+
+📌 **추가적으로 내 프로젝트 & 포트폴리오를 확인하려면?**  
+👉 **[내 블로그 방문하기](https://sweet-die-is-back.tistory.com)**  
+
