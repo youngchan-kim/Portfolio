@@ -7,10 +7,10 @@
 
 ## 📌 주요 레포지토리 목록
 
-### 1️⃣ 알고리즘 문제 풀이
+### 1️⃣ CodingTest 문제 풀이
 
-🔗 [Algorithm-Solutions Repository](https://github.com/youngchan-kim/Algorithm-Solutions)\
-💡 다양한 알고리즘 문제 풀이 및 해설을 포함하고 있습니다.
+🔗 [CodingTest Repository](https://github.com/youngchan-kim/CodingTest)\
+💡 다양한 CodingTest 문제 풀이 및 해설을 포함하고 있습니다.
 
 ### 2️⃣ 게임 개발 프로젝트
 
