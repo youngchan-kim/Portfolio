@@ -24,7 +24,7 @@
 
 ### 4️⃣ 포트폴리오 문서 & 이력서
 
-🔗 [Docs Repository](https://github.com/youngchan-kim/Docs)\
+🔗 [Docs Repository]([https://github.com/youngchan-kim/Docs-Repository])\
 💡 이력서, 자기소개서, 프로젝트 문서 등이 포함됨.
 
 ---
