@@ -14,7 +14,7 @@
 
 ###  개인 프로젝트
 
-🔗 [GameDev Repository](https://github.com/youngchan-kim/fps_project)\
+🔗 [Fps_Project](https://github.com/youngchan-kim/fps_project)\
 💡 Unity 기반 TPS, AI 경로 탐색 등 다양한 게임 개발 관련 코드 포함.
 
 ###  포트폴리오 문서 & 이력서
