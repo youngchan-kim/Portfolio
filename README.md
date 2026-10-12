@@ -7,20 +7,17 @@
 
 ## 📌 주요 레포지토리 목록
 
-### 1️⃣ CodingTest 문제 풀이
+###  CodingTest 문제 풀이
 
 🔗 [CodingTest Repository](https://github.com/youngchan-kim/CodingTest)\
 💡 다양한 CodingTest 문제 풀이 및 해설을 포함하고 있습니다.
 
-### 2️⃣ 게임 개발 프로젝트
+###  개인 프로젝트
 
 🔗 [GameDev Repository](https://github.com/youngchan-kim/fps_project)\
 💡 Unity 기반 TPS, AI 경로 탐색 등 다양한 게임 개발 관련 코드 포함.
 
-### 3️⃣ 개인 프로젝트
-
-
-### 4️⃣ 포트폴리오 문서 & 이력서
+###  포트폴리오 문서 & 이력서
 
 🔗[Docs Repository](https://github.com/youngchan-kim/Docs-Repository)\
 💡 이력서, 자기소개서, 프로젝트 문서 등이 포함됨.
