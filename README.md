@@ -19,7 +19,7 @@
 
 ### 3️⃣ 개인 프로젝트
 
-🔗 [Projects Repository](https://github.com/youngchan-kim/Projects)\
+🔗 [Projects Repository](https://github.com/youngchan-kim/fps_project)\
 💡 웹 개발, 앱 개발, 머신러닝 등 다양한 프로젝트 모음.
 
 
