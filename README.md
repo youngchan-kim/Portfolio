@@ -14,13 +14,10 @@
 
 ### 2️⃣ 게임 개발 프로젝트
 
-🔗 [GameDev Repository](https://github.com/youngchan-kim/GameDev)\
+🔗 [GameDev Repository](https://github.com/youngchan-kim/fps_project)\
 💡 Unity 기반 TPS, AI 경로 탐색 등 다양한 게임 개발 관련 코드 포함.
 
 ### 3️⃣ 개인 프로젝트
-
-🔗 [Projects Repository](https://github.com/youngchan-kim/fps_project)\
-💡 웹 개발, 앱 개발, 머신러닝 등 다양한 프로젝트 모음.
 
 
 ### 4️⃣ 포트폴리오 문서 & 이력서
