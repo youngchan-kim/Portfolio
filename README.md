@@ -22,8 +22,6 @@
 🔗 [Projects Repository](https://github.com/youngchan-kim/Projects)\
 💡 웹 개발, 앱 개발, 머신러닝 등 다양한 프로젝트 모음.
 
-🔗 [Projects Repository](https://github.com/youngchan-kim/Bank_System)\
-💡 금융시스템
 
 ### 4️⃣ 포트폴리오 문서 & 이력서
 
